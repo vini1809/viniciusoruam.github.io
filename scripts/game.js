@@ -1,5 +1,5 @@
 var Game = function() {
-	this.player = $("#Vinicius");	
+	this.player = $("#vinicius");	
 	this.topPos = 0;
 	this.leftPos = $(window).width() / 2 - this.player.width() / 2;
 	this.init();

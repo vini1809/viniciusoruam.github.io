@@ -969,7 +969,7 @@ nav li.last a:hover {
 
 /* Me */
 
-#daniel {
+#vinicius {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -978,7 +978,7 @@ nav li.last a:hover {
 	z-index: 53;
 }
 
-#daniel::after {
+#vinicius::after {
 	background: rgba(0, 0, 0, 0.3);
 	width: 16px;
 	height: 19px;
@@ -991,19 +991,19 @@ nav li.last a:hover {
 	z-index: 12;
 }
 
-#daniel.down {			
+#vinicius.down {			
 	background: url(images/walkingMe.png) no-repeat -32px 0;
 }
 
-#daniel.up {
+#vinicius.up {
 	background: url(images/walkingMe.png) 0 -96px;
 }
 
-#daniel.right {
+#vinicius.right {
 	background: url(images/walkingMe.png) 0 -64px;
 }
 
-#daniel.left {
+#vinicius.left {
 	background: url(images/walkingMe.png) 0 -32px;
 }
 
