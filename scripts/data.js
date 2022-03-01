@@ -74,25 +74,25 @@ var notifications = [
 	{
 		id: 1,
 		type: 'error',
-		text: 'You can\'t teleport yourself here...',
+		text: 'Você não pode se teletransportar aqui...',
 		img: 'images/error.png'
 	},
 	{
 		id: 2,
 		type: 'info',
-		text: 'If you\'re too lazy to walk, you may navigate with the top navigation bar',
+		text: 'Se você está com preguiça de andar, você pode navegar com a barra de navegação superior',
 		img: 'images/information.png'
 	},
 	{
 		id: 3,
 		type: 'info',
-		text: 'Press the "Enter" key or click the ship in order to sail and reveal my contact information',
+		text: 'Pressione a tecla "Enter" ou clique no navio para navegar e revelar minhas informações de contato',
 		img: 'images/information.png'
 	},
 	{
 		id: 4,
 		type: 'error',
-		text: 'Stop trying to drown me down!',
+		text: 'Pare de tentar me afogar!',
 		img: 'images/error.png'
 	},
 ]
